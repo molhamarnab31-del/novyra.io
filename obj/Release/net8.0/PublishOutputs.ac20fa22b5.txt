@@ -1,0 +1,5 @@
+C:\Users\ASUS\.gemini\antigravity\brain\7add30d3-329d-49fe-adc3-092692aa0835\scratch\pub_test\SnakeIO.Server.exe
+C:\Users\ASUS\.gemini\antigravity\brain\7add30d3-329d-49fe-adc3-092692aa0835\scratch\pub_test\SnakeIO.Server.dll
+C:\Users\ASUS\.gemini\antigravity\brain\7add30d3-329d-49fe-adc3-092692aa0835\scratch\pub_test\SnakeIO.Server.deps.json
+C:\Users\ASUS\.gemini\antigravity\brain\7add30d3-329d-49fe-adc3-092692aa0835\scratch\pub_test\SnakeIO.Server.runtimeconfig.json
+C:\Users\ASUS\.gemini\antigravity\brain\7add30d3-329d-49fe-adc3-092692aa0835\scratch\pub_test\SnakeIO.Server.pdb
